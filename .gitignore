@@ -3,3 +3,6 @@ project-files/dynamips/
 *.image
 *.ghost
 
+project-files/dynamips/
+*.image
+*.ghost
