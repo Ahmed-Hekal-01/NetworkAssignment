@@ -28,10 +28,13 @@ I have chosen to implement this lab using **GNS3 (Graphical Network Simulator-3)
 To verify the topology and connectivity, please follow these steps:
 
 1.  **Clone the Repository:**
-    Open your terminal and clone the project repository:
-    ```bash
-    git clone [https://github.com/Ahmed-Hekal-01/NetworkAssignment.git](https://github.com/Ahmed-Hekal-01/NetworkAssignment.git)
-    ```
+
+Open your terminal and clone the project repository:
+
+```bash
+git clone https://github.com/Ahmed-Hekal-01/NetworkAssignment.git
+cd NetworkAssignment
+```
 
 2.  **Open the Project:**
     * Launch GNS3 first (important: open the application before the file).
