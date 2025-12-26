@@ -1,0 +1,5 @@
+# Cisco IOS images (DO NOT COMMIT)
+project-files/dynamips/
+*.image
+*.ghost
+
